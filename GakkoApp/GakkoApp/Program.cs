@@ -3,3 +3,5 @@
 Console.WriteLine("Hello, World!");
 
 int age=20;
+string login="nazar";
+string password="qwerty";
