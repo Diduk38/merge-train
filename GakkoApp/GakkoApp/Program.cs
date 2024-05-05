@@ -6,3 +6,5 @@ int age=20;
 string login="nazar";
 string password="qwerty";
 int id=5;
+//Implement google login
+string someKindOfGoogleLogin="login";
